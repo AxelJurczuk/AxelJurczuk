@@ -7,3 +7,4 @@ Developing simple applications to practice my skills
 #### Where to find me:
 
 - [Linkedin](https://www.linkedin.com/in/axel-jurczuk/)
+
